@@ -1,6 +1,7 @@
 # Build Artifacts
 dist/
 script/local/
+*.egg-info/
 
 # Python
 __pycache__/

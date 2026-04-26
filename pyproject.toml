@@ -9,3 +9,7 @@ dependencies = [
     "ruamel.yaml",
     "cerberus"
 ]
+
+[tool.setuptools.packages.find]
+include = []
+exclude = ["data", "script", "schema"]
