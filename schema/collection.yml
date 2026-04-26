@@ -1,0 +1,17 @@
+collection_name:
+  type: string
+  required: true
+
+collection_type:
+  type: string
+  required: true
+  allowed: ['set', 'raid', 'promo', 'starter', 'token', 'extra']
+
+collection_lex:
+  type: string
+  nullable: true
+  coerce: str
+
+source:
+  type: string
+  allowed: ['standard', 'reborn']

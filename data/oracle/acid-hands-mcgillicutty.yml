@@ -1,0 +1,23 @@
+card_name: _Acid Hands_ McGillicutty
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: When Acid Hands is destroyed, you may destroy target equipment.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue
