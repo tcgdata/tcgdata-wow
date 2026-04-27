@@ -2,7 +2,7 @@ SPDX-License-Identifier: MIT-0
 
 MIT No Attribution License
 
-Copyright 2026 Benjamin Thomas
+Copyright 2026 TCGData
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to deal in the Software
