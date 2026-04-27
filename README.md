@@ -6,7 +6,7 @@ An open, flat-file dataset for the World of Warcraft Trading Card Game.
   
 > [!IMPORTANT]
 > The structural foundation of this dataset is complete.<br> Every card printing and card oracle has a dedicated file.<br>
-> However, ~90% of the actual game properties (rules text, costs, abilities) are incomplete.<br>
+> However, much of the actual game properties (rules text, costs, abilities) are incomplete.<br>
 > Editors are actively collaborating on this data and welcome community contributions.
 
 <br>
