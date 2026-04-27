@@ -51,7 +51,7 @@ This dataset relies on community contributions to stay accurate and up-to-date. 
 
 *   **Read the Docs:** Before editing any YAML files, please read the wiki (coming soon).<br>  
   
-*   **[Join Discord](https://discord.gg/b8Se3B9Cb4):** Discuss structure and data accuracy.
+*   **[Join Discord](https://discord.gg/9ASXsqeUWr):** Discuss structure and data accuracy.
 
 <br>
 
