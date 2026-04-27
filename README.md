@@ -1,4 +1,4 @@
-# WoW TCG Card dataset 👹
+# WoW TCG Card Dataset 👹
 
 An open, flat-file dataset for the World of Warcraft Trading Card Game.
 
