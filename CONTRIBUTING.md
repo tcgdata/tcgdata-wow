@@ -5,7 +5,7 @@ Thank you for helping maintain this data!
 Before jumping in, please review these community resources:
 
 *   **Read the Docs:** Before editing, please read the wiki (coming soon).
-*   **[Join Discord](https://discord.gg/b8Se3B9Cb4):** Discuss structure and data accuracy.
+*   **[Join Discord](https://discord.gg/9ASXsqeUWr):** Discuss structure and data accuracy.
 
 ## 🌭 Local Setup
 
